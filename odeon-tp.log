@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.20)  12 MAY 2018 20:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.20)  12 MAY 2018 21:06
 entering extended mode
 **./odeon-tp.tex
 (odeon-tp.tex
@@ -754,32 +754,32 @@ LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/b/n' will be
 
  [1
 
-{C:/Users/UNKNOWNUSER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 28.
-
+{C:/Users/UNKNOWNUSER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (inpu
+t_01-introduction.tex)
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
  Make it at least 25.35872pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] [3] [4] [5] [6] (odeon-tp.aux) ) 
+[2] (input_02-gate.tex) [3] (input_03-trade.tex) [4]
+(input_04-timeframe+roadmap.tex) [5] (input_05-miscellaneous.tex) [6]
+(odeon-tp.aux) ) 
 Here is how much of TeX's memory you used:
- 5121 strings out of 493634
- 83370 string characters out of 3132791
+ 5149 strings out of 493634
+ 84100 string characters out of 3132791
  181684 words of memory out of 3000000
- 8430 multiletter control sequences out of 15000+200000
- 20088 words of font info for 46 fonts, out of 3000000 for 9000
+ 8444 multiletter control sequences out of 15000+200000
+ 18410 words of font info for 44 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  47i,10n,54p,226b,203s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/UNKNOWNUSER/AppData/Local/Program
-s/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_edcawa.enc}{C:/Users/UNKNOWNUSER/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}<C:/U
-sers/UNKNOWNUSER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine
-/LinBiolinumTB.pfb><C:/Users/UNKNOWNUSER/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/libertine/LinLibertineT.pfb>
-Output written on odeon-tp.pdf (6 pages, 133860 bytes).
+{C:/Users/UNKNOWNUSER/AppData/Local/Programs/MiKTeX 2.9/fonts/e
+nc/dvips/libertine/lbtn_edcawa.enc}{C:/Users/UNKNOWNUSER/AppData/Local/Programs
+/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}<C:/Users/UNKNOWNUSER/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><
+C:/Users/UNKNOWNUSER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/liber
+tine/LinLibertineT.pfb>
+Output written on odeon-tp.pdf (6 pages, 134008 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
