@@ -1,6 +1,6 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Introduction}{3}
-\contentsline {section}{\numberline {2}ODEON Gate platform}{4}
-\contentsline {section}{\numberline {3}ODEON Trade platform}{5}
-\contentsline {section}{\numberline {4}Timeframe/Roadmap}{6}
-\contentsline {section}{\numberline {5}Miscellaneous}{7}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}ODEON Gate platform}{2}{section.2}
+\contentsline {section}{\numberline {3}ODEON Trade platform}{3}{section.3}
+\contentsline {section}{\numberline {4}Timeframe/Roadmap}{4}{section.4}
+\contentsline {section}{\numberline {5}Miscellaneous}{5}{section.5}
