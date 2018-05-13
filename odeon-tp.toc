@@ -1,5 +1,6 @@
-\contentsline {section}{\numberline {1}Introduction}{2}
-\contentsline {section}{\numberline {2}ODEON Gate platform}{3}
-\contentsline {section}{\numberline {3}ODEON Trade platform}{4}
-\contentsline {section}{\numberline {4}Timeframe/Roadmap}{5}
-\contentsline {section}{\numberline {5}Miscellaneous}{6}
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}ODEON Gate platform}{4}
+\contentsline {section}{\numberline {3}ODEON Trade platform}{5}
+\contentsline {section}{\numberline {4}Timeframe/Roadmap}{6}
+\contentsline {section}{\numberline {5}Miscellaneous}{7}
